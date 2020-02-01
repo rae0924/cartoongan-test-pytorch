@@ -38,4 +38,4 @@ for Windows:
 ```
 $ python test.py --input_dir inputImageDir --style CartoonStyle --gpu 0
 ```
-### Args
+Where `--input_dir` is the path to images, `--style` is the style to transform the images into (ex: `--style Hayao`), and `--gpu` specifies the device to use (ex: `--gpu 0` is GPU and `--gpu -1` is CPU).
