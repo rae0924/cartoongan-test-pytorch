@@ -26,6 +26,7 @@ $ git clone https://github.com/rae0924/CartoonGAN-Test-Pytorch
 $ cd CartoonGAN-Test-Pytorch
 ```
 2. Download the model state dicts:
+for Linux/MacOS:
 ```
 $ sh ./pretrained_model/download_pth.sh
 ```
@@ -37,3 +38,4 @@ for Windows:
 ```
 $ python test.py --input_dir inputImageDir --style CartoonStyle --gpu 0
 ```
+### Args
