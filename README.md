@@ -1,5 +1,5 @@
 # CartoonGAN Test PyTorch
-Updated version of [CartoonGAN-Test-Pytorch-Torch](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch). Removed Lua support and fixed some minor deprecated PyTorch code. Also included a batchfile for downloading the .pth model state dict files in Windows.
+Updated version of [CartoonGAN-Test-Pytorch-Torch](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch). Removed Lua support and fixed some minor deprecated PyTorch code. 
 
 ## Examples (Left: input, Right: output)
 
